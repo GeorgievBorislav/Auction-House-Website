@@ -1,0 +1,2 @@
+# Auction-House-Website
+This a website similar to e-bay in functionality. We were a team and it was assigned to us as a class project. Everyone was contributing with all the task but we were mainly focused on one aspect ( front/backend ). We used the MVC approach, since we were six people in the team and it was easier to go through the code and find the needed sections. The website has a database (accounts, bidding items, items for approval), admin panel, registration forms and a simple but very friendly user interface. 
